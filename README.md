@@ -9,6 +9,6 @@ You may then create/save/edit SVG technical drawings.
 
 To preview how this application works go to: http://svg-earth.com
 
-NOTE:To store your svg images for the Component and Schematic libraries, the Windows IIS must have 
-ASP files activated (See Wiki for a description how to do this).Windows 10 Stand-Alone Application: Create SVG Earth Science Drawings
+NOTE: To store your svg images for the Component and Schematic libraries, the Windows IIS must have 
+ASP files activated (See Wiki for a description how to do this).
 
